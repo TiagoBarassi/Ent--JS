@@ -1,0 +1,95 @@
+.navLink {
+	color: white;
+	text-decoration: none;
+	font-size: 1.25rem;
+	font-family: 'Montserrat'; sans-serif;
+	font-weight: 200;
+}
+.navLink:hover {
+	color: antiquewhite;
+}
+.main {
+	background-image: url(../media/bar.jpg);
+	background-position: center;
+}
+.saludo {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 5rem;
+	font-weight: 600;
+	text-align: center;
+	color: white;
+	padding: 30px;
+}
+.formulario {
+  padding: 20px;
+  color: white;
+  width: 100%; 
+}
+.instructions {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+	text-align: center;
+	color: white;
+}
+.slogan {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 2rem;
+	font-weight: 300;
+	text-align: center;
+	color: white;
+}
+.slogan__underline {
+	text-decoration: underline;
+	font-weight: 400;
+	font-style: italic;
+}
+.bares {
+	background-color: white;
+}
+.nombre__bar {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 1rem;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+	color: white;
+	background-color: darkslategrey;
+}
+.fotoBar {
+	display: flex;
+	margin: 0 auto;
+}
+.nombre__bar--zona {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	color: black;
+}
+.filtros {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+	font-style: italic;
+	color: antiquewhite;
+}
+.eleccionFiltros {
+	background-color: rgb(1, 102, 132);
+}
+.donacionBarra {
+	background-color: antiquewhite;
+}
+.donacionConfirmada {
+	font-family: 'Montserrat'; sans-serif;
+	font-size: 1.25rem;
+	font-weight: 200;
+	font-style: italic;
+	text-align: center;
+	color: black;
+}
+.botonFiltro {
+	padding: 10px;
+	margin: 10px;	
+}
